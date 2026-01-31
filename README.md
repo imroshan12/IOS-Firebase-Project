@@ -1,6 +1,6 @@
-# 🔐 Firebase Authentication – SwiftUI
+# 🔐 Firebase methods – SwiftUI
 
-An iOS application built using **SwiftUI** that demonstrates **Firebase Authentication**
+An iOS application built using **SwiftUI** that demonstrates different **Firebase Authentication**
 with multiple sign-in methods including Email, Google, and Apple.
 
 ---
